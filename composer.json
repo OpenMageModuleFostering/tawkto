@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/TawkTo",
+    "name": "openmage-module-fostering\/tawkto",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Instantly chat with visitors on your website with the free tawk.to chat widget.",
     "authors": [
